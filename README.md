@@ -1,4 +1,4 @@
-## 🌐 Azad's Techno Algo Live Hub
+# 🌐 Azad's Techno Algo Live Hub
 
 Azad's Techno Algo Live Hub is a dynamic live blog website developed using PHP Object-Oriented Programming (OOP).  
 This platform focuses on Computer Science & Engineering (CSE) topics and serves as a complete technical blogging platform where users can explore blogs, tutorials, and articles across multiple tech domains.
